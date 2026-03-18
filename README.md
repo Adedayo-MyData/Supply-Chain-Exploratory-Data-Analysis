@@ -198,35 +198,14 @@ The dataset contains **4,500 supply chain transactions** with 8 variables.
 ---
 
 
-## Project Structure
-Supply-Chain-EDA/
-¦
-+-- data/
-¦ +-- supply_chain_raw.csv
-¦
-+-- notebooks/
-¦ +-- Supply Chain EDA Using Python.ipynb
-¦ +-- Supply Chain_Dashboard In Python.ipynb
-¦
-+-- images/
-¦ +-- Avr_LeadTime_Per_Warehouse.png
-¦ +-- Avr_ShippingDelay_Per_Warehouse.png
-¦ +-- Avr_SupplierRating_Per_Warehouse.png
-¦ +-- Correlation_Matrix.png
-¦ +-- Heatmap_Product_Sale_Per_Warehouse.png
-¦ +-- Order_Per_Month.png
-¦ +-- Power_Bi_Visualization_1.png
-¦ +-- Power_Bi_Visualization_2.png
-¦ +-- Total_No_of_Order_Per_Warehouse.png
-¦ +-- Total_Quantity_Sold_Per_Warehouse.png
-¦
-+-- dashboard/
-¦ +-- Supply_Chain_Dashboard in Power Bi.pbix
-¦
-+-- outputs/
-¦ +-- Dashboard_data.csv
-¦
-+-- README.md
+## Project Files
+
+- [EDA Notebook](notebooks/Supply%20Chain%20EDA%20Using%20Python.ipynb) – Data preprocessing and exploratory analysis  
+- [Python Dashboard Notebook](notebooks/Supply%20Chain_Dashboard%20In%20Python.ipynb) – Interactive dashboard using Python  
+- [Raw Dataset](data/supply_chain_raw.csv) – Original supply chain data  
+- [Dashboard Data](outputs/Dashboard_data.csv) – Cleaned and processed dataset for dashboards  
+- [Power BI Dashboard](dashboard/Supply_Chain_Dashboard%20in%20Power%20Bi.pbix) – Interactive visualizations  
+- [Images](images/) – Charts, heatmaps, and visual analysis of warehouse operations
 
 ---
 
