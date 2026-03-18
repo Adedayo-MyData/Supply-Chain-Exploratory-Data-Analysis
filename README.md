@@ -200,11 +200,11 @@ The dataset contains **4,500 supply chain transactions** with 8 variables.
 
 ## Project Files
 
-- [EDA Notebook](notebooks/Supply%20Chain%20EDA%20Using%20Python.ipynb) – Data preprocessing and exploratory analysis  
-- [Python Dashboard Notebook](notebooks/Supply%20Chain_Dashboard%20In%20Python.ipynb) – Interactive dashboard using Python  
+- [EDA Notebook](notebooks/Supply Chain EDA Using Python.ipynb) – Data preprocessing and exploratory analysis  
+- [Python Dashboard Notebook](notebooks/Supply Chain_Dashboard In Python.ipynb) – Interactive dashboard using Python  
 - [Raw Dataset](data/supply_chain_raw.csv) – Original supply chain data  
 - [Dashboard Data](outputs/Dashboard_data.csv) – Cleaned and processed dataset for dashboards  
-- [Power BI Dashboard](dashboard/Supply_Chain_Dashboard%20in%20Power%20Bi.pbix) – Interactive visualizations  
+- [Power BI Dashboard](dashboard/Supply_Chain_Dashboard in Power Bi.pbix) – Interactive visualizations  
 - [Images](images/) – Charts, heatmaps, and visual analysis of warehouse operations
 
 ---
