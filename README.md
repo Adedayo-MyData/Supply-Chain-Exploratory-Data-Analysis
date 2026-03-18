@@ -200,10 +200,22 @@ The dataset contains **4,500 supply chain transactions** with 8 variables.
 
 ## Project Files
 
-[Images](Order_Per_Month.png)– Data preprocessing and exploratory analysis  
+[EDA Notebook](Supply%20Chain%20EDA%20%20Using%20Python.ipynb)
+[Dashboard Notebook](Supply%20Chain_Dashboard%20In%20Python.ipynb)
+[Power Bi Dashboard](Supply_Chain_Dashboard%20in%20Power%20Bi.pbix)
+[Raw Data](supply_chain_raw.csv)
+[Processed Data](Dashboard_data.csv)
+[Image](Avr_LeadTime_Per_Warehouse.png)- Avr_LeadTime_Per_Warehouse
+[Image](Avr_ShippingDelay_Per_Warehouse.png)- Avr_ShippingDelay_Per_Warehouse
+[Image](Avr_SupplierRating_Per_Warehouse.png)- Avr_SupplierRating_Per_Warehouse
+[Image](Correlation_Matrix.png)- Correlation_Matrix
+[Image](Heatmap_Product_Sale_Per_Warehouse.png)- Heatmap_Product_Sale_Per_Warehouse
+[Image](Order_Per_Month.png)- Order_Per_Month
+[Image](Power_Bi_Visualization_1.png)- Power_Bi_Visualization_1
+[Image](Power_Bi_Visualization_2.png)- Power_Bi_Visualization_2
+[Image](Total_No_of_Order_Per_Warehouse.png)- Total_No_of_Order_Per_Warehouse
+[Image](Total_Quantity_Sold_Per_Warehouse.png)- Total_Quantity_Sold_Per_Warehouse
 
-
----
 
 ## Conclusion
 
