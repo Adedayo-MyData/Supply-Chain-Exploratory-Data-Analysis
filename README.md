@@ -200,7 +200,7 @@ The dataset contains **4,500 supply chain transactions** with 8 variables.
 
 ## Project Files
 
-[EDA Notebook](Supply%20Chain%20EDA%20%20Using%20Python.ipynb)– Data preprocessing and exploratory analysis  
+[Images](Order_Per_Month.png)– Data preprocessing and exploratory analysis  
 
 
 ---
