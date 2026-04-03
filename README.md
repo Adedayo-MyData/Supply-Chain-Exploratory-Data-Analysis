@@ -247,5 +247,5 @@ The analysis reveals a **well-balanced and operationally stable supply chain** w
 ## Author
 
 **Adedayo Adebayo**  
-Data Scientist | Business Analyst
+Data Analyst | ML Practitioner
 
